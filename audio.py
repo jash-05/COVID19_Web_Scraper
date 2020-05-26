@@ -42,6 +42,7 @@ while True:
 				continue
 
 			if user_input == 'break': 
+				print('Terminating code')
 				break
 
 			if active==1:
